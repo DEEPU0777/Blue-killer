@@ -8,7 +8,7 @@ This is a Python project created by the RedTeamHacker Academy students under the
 
 1. Clone the repository to your local machine  
 ```
-git clone https://github.com/Bendalledj/blue-exploit-team2.git
+git clone https://github.com/DEEPU0777/Blue-killer.git
 ```
 2. Open a terminal window and navigate to the directory where the script is located  
 
